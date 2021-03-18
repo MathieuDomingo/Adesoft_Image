@@ -1,0 +1,8 @@
+<?php
+
+$url_adesoft="https://ade.univ-ABCD.fr";
+$login_adesoft="&login=EFGH";
+$mdp_adesoft="&password=IJKL";
+$projectId=1;
+$date_debut_projet= date_create('2020-08-17'); //On met la date de debut qui correspond au lundi de la premiere semaine du projectid
+$duree_refresh=5; //durée en minute
